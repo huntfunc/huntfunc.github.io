@@ -6,7 +6,7 @@ categories: panel
 featured_image: /images/solvay.jpg
 ---
 
-As discussed at during the April 2015 meeting, there is interest in having occasional meetings devoted to panel sessions on various topics of interest. After some thought and talking to some members, I'm going to try an organize this for the three summer months. Some of the topics that I've heard mentioned are testing, development processes, the use of estimation in development processes, and the use (or lack of use) of types in functional languages.
+As discussed during the April 2015 meeting, there is interest in having occasional meetings devoted to panel sessions on various topics of interest. After some thought and talking to some members, I'm going to try an organize this for the three summer months. Some of the topics that I've heard mentioned are testing, development processes, the use of estimation in development processes, and the use (or lack of use) of types in functional languages.
 
 ## The Topic
 
