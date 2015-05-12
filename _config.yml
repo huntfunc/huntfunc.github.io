@@ -1,0 +1,9 @@
+# Site settings
+title: 'HuntFunc Summer Panel Series' # Your Title
+tagline: 'HSV devs speak on important topics' # A brief tagline for your site
+sidebar_image: /images/solvay.jpg
+
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+baseurl: # the subpath of your site, e.g. /blog/
