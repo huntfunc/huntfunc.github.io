@@ -6,7 +6,7 @@ categories: panel
 featured_image: /images/solvay.jpg
 ---
 
-As discussed during the April 2015 meeting, there is interest in having occasional meetings devoted to panel sessions on various topics of interest. After some thought and talking to some members, I'm going to try an organize this for the three summer months. Some of the topics that I've heard mentioned are testing, development processes, the use of estimation in development processes, and the use (or lack of use) of types in functional languages.
+As discussed during the April 2015 meeting, there is interest in having occasional meetings devoted to panel sessions on various topics of interest. After some thought and after talking to some members, I'm going to try and organize this for the three summer months. Some of the topics that I've heard mentioned are testing, development processes, the use of estimation in development processes, and the use (or lack of use) of types in functional languages.
 
 ## The Topic
 
@@ -33,7 +33,7 @@ Here's some quotes and resources to get the thoughts and opinions flowing.
 
 ## The Process
 
-If you have an opinion on the matter and want to represent that opinion as one of the panelists then send an email to [Bret Young](mailto:hby@acm.org) with 1 to 4 sentences (just be brief) stating your opinion. If there are enough submissions, 3 or 4 will be selected that represent a range of opinions.
+If you have an opinion on the matter and want to represent that opinion as one of the panelists then send an email to [Bret Young](mailto:hby@acm.org) with 1 to 4 sentences (just be brief) stating your opinion. If there are enough submissions, 3 or 4 will be selected to be on the panel so that a range of opinions are represented.
 
 ## The Format
 
