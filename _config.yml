@@ -1,9 +1,17 @@
 # Site settings
-title: 'HuntFunc Happenings' # Your Title
-tagline: 'HSV devs speak on important topics' # A brief tagline for your site
-sidebar_image: /images/solvay.jpg
+title: "HuntFunc Happenings"
+header-img: "img/fpfolks.jpg"
+email: huntfunc@googlegroups.com
+description: "Huntsville folks becoming functional"
+baseurl: ""
+url: "http://huntfunc.github.io"
+twitter_username: HuntFunc
+github_username:  huntfunc
+#facebook_username: 
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
-baseurl: # the subpath of your site, e.g. /blog/
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

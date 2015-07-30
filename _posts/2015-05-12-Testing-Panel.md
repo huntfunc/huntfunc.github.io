@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Announcing the Summer Panel Series"
+subtitle: "Tests, yes or no?"
 date: 2015-05-12 12:00:00
-categories: panel
-featured_image: /images/solvay.jpg
+author: Bret Young
+header-img: img/solvay.jpg
 ---
 
 As discussed during the April 2015 meeting, there is interest in having occasional meetings devoted to panel sessions on various topics of interest. After some thought and after talking to some members, I'm going to try and organize this for the three summer months. Some of the topics that I've heard mentioned are testing, development processes, the use of estimation in development processes, and the use (or lack of use) of types in functional languages.
