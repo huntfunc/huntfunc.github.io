@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "August Meeting"
-subtitle: "What's happening?"
+title: ""
+subtitle: ""
 date: 2015-07-30 17:00:00
 author: Bret Young
-header-img: ""
+header-img: "img/august.png"
 ---
 
 ## Meeting next week on August 4th.
