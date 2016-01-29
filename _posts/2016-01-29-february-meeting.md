@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Februrary Meeting"
+title: "February Meeting"
 subtitle: "Lunch Conversation"
 date: 2016-01-29 09:00:00
 author: Bret Young
 header-img: ""
 ---
 
-## Meeting next week on Februrary 2nd.
+## Meeting next week on February 2nd.
 
-The Februrary meeting is this coming Tuesday.
+The February meeting is this coming Tuesday.
 
 Lunch discussion topic(s) will be dynamically determined by the attendees.
 Be careful of shared state and side effects.
