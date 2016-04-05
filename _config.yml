@@ -1,3 +1,5 @@
+gems: [jekyll-paginate]
+
 # Site settings
 title: "HuntFunc Happenings"
 header-img: "img/fpfolks.jpg"
