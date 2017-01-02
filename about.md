@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "What. When. Where."
-header-img: "img/metabahn.jpg"
+header-img: "img/radiance.png"
 ---
 
 HuntFunc is a user group in Huntsville, AL organized loosely around the idea of exploring functional programming languages.
@@ -10,7 +10,7 @@ More broadly, it’s an open forum to examine and share new advances in programm
 
 We meet regularly on the first Tuesday of the month from 11:30am to 12:30pm. _Ad hoc_ conversations usually follow. Feel free to bring a lunch.
 
-We meet in the office of [Metabahn](http://metabahn.com) at [6767 Old Madison Pike, Suite 450, Huntsville, AL 35806](https://goo.gl/maps/hc3up).
+We currently meet at the offices of [Radiance Technologies, Inc.](https://www.radiancetech.com) at [350 Wynn Dr NW, Huntsville, AL 35805](https://goo.gl/maps/oqmKdhwBBCq).
 
 Discussions happen in our Google [group](https://groups.google.com/d/forum/huntfunc) which you can access within our [Community](/community) page.
 
