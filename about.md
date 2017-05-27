@@ -8,7 +8,7 @@ header-img: "img/radiance.png"
 HuntFunc is a user group in Huntsville, AL organized loosely around the idea of exploring functional programming languages.
 More broadly, it’s an open forum to examine and share new advances in programming languages, libraries and problem solving using these languages, ideas and techniques.
 
-We meet regularly on the first Tuesday of the month from 11:30am to 12:30pm. _Ad hoc_ conversations usually follow. Feel free to bring a lunch.
+We meet regularly on the first Thursday of the month from 11:30am to 12:30pm. _Ad hoc_ conversations usually follow. Feel free to bring a lunch.
 
 We currently meet at the offices of [Radiance Technologies, Inc.](https://www.radiancetech.com) at [350 Wynn Dr NW, Huntsville, AL 35805](https://goo.gl/maps/oqmKdhwBBCq).
 
